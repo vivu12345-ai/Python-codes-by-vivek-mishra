@@ -1,3 +1,3 @@
 # Python-codes-by-vivek-mishra
 <br>
-made by vivek kumar mishra
+made by v. k.  mishra
